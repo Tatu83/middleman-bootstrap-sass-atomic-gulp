@@ -1,14 +1,14 @@
 # Middleman Base
 
-Estructura base para la inicialización de un proyecto en [[https://middlemanapp.com/]](Middleman). 
+Estructura base para la inicialización de un proyecto en [Middleman](https://middlemanapp.com/). 
 
 El stack tecnológico en el que está construido este kit de inicialización es el siguiente:
 
 - [Middleman](https://middlemanapp.com/)
-- [https://getbootstrap.com/](Bootstrap 4)
-- [https://sass-lang.com/](SASS)
-- [https://bradfrost.com/blog/post/atomic-web-design/](Atomic Design)
-- [https://gulpjs.com/](Gulp)
+- [Bootstrap 4](https://getbootstrap.com/)
+- [SASS](https://sass-lang.com/)
+- [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/)
+- [Gulp](https://gulpjs.com/)
 
 **Middleman**
 
