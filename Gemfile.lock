@@ -36,6 +36,8 @@ GEM
       http_parser.rb (~> 0.6.0)
     erubis (2.7.0)
     eventmachine (1.2.7)
+    eventmachine (1.2.7-x64-mingw32)
+    eventmachine (1.2.7-x86-mingw32)
     execjs (2.7.0)
     fast_blank (1.0.0)
     fastimage (2.1.7)
@@ -109,7 +111,7 @@ GEM
       activesupport (>= 3.1)
     parallel (1.17.0)
     public_suffix (4.0.1)
-    rack (2.0.7)
+    rack (2.0.8)
     rack-livereload (0.3.17)
       rack
     rb-fsevent (0.10.3)
